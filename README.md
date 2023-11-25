@@ -21,12 +21,15 @@ Designing a user-friendly interface that resembled Netflix posed its own set of 
 Movie Trailer API: Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
 React-YouTube: Employs the React-YouTube library to embed and play YouTube videos seamlessly within the application.
 
-### Create-react-app for Installing React
+## Deployment
+Deployed the project using Netlify
+
+## Create-react-app for Installing React
 ```bash
 npx create-react-app my-app
 ```
 
-### Run the app using
+## Run the app using
 ```bash
  npm run start
 ```
