@@ -8,7 +8,7 @@ This project is a Netflix clone built using React, leveraging the power of the M
 playing video on site
 ## Demo
 
-URL - https://storied-crepe-d83f2a.netlify.app/
+URL - https://netflix-clone-hukum.netlify.app/
 
 ## Challenges Faced
 
@@ -17,9 +17,9 @@ This was my first attempt at making a video streaming platform. Understanding ho
 Designing a user-friendly interface that resembled Netflix posed its own set of challenges.
 
 ## Technology Used
- React:  The application is developed using React, providing a robust and efficient front-end framework for building user interfaces.
-Movie Trailer API: Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
-React-YouTube: Employs the React-YouTube library to embed and play YouTube videos seamlessly within the application.
+- **React:**  The application is developed using React, providing a robust and efficient front-end framework for building user interfaces.
+- **Movie Trailer API:** Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
+- **React-YouTube:** Employs the React-YouTube library to embed and play YouTube videos seamlessly within the application.
 
 ## Deployment
 Deployed the project using Netlify
