@@ -16,7 +16,7 @@ People who enjoy occasional movie nights and want an easy tool to discover new m
 Users who prefer making informed decisions about their entertainment choices and value the ability to preview a movie's content before committing to watching it.
 ## Demo
 
-URL - https://netflix-clone-hukum.netlify.app/
+URL - https://netflix-clone-hukum.netlify.app/  
 
 ## Project Summary
 I created a cool app where you can easily watch movie trailers. By using a special movie-trailer tool and connecting it with React YouTube, the app smoothly plays trailers. Making it look and feel like Netflix was a bit tricky, but I figured it out. Now, it's a simple and fun way to check out trailers before picking a movie!
@@ -41,7 +41,7 @@ You can download and install Node.js from https://nodejs.org/
 **Installation steps**
 - **1. Clone the repository**
 ```bash
-git clone https://github.com/Hukumchand-Narwre/netflix_clone.git
+git clone https://github.com/Hukumchand-Narwre/TrailFlix.git
 ```
 - **2. Navigate to project directory**
 ```bash
