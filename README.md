@@ -27,16 +27,40 @@ I created a cool app where you can easily watch movie trailers. By using a speci
 - **Movie Trailer API:** Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
 - **React-YouTube:** Employs the React-YouTube library to embed and play YouTube videos seamlessly within the application.
 - **Netlify:** Netlify is a cloud-based web development platform that allows developers to host and deploy their websites, web applications, and React applications with 
-               liteweight pre-built components and without server management
+               lightweight pre-built components and without server management
 
+## Local Installation Guide
 
+Follow these steps to set up the project on your local machine:
 
-## Create-react-app for Installing React
+- **Prerequisites -**
+Ensure you have Node.js installed:
+
+You can download and install Node.js from https://nodejs.org/
+
+**Installation steps**
+- **1. Clone the repository**
 ```bash
-npx create-react-app my-app
+git clone https://github.com/Hukumchand-Narwre/netflix_clone.git
 ```
-
-## Run the app using
+- **2. Navigate to project directory**
 ```bash
- npm run start
+cd netflix_clone
+```
+- **3. Install dependencies**
+```bash
+npm install
+```
+- **4. Configure environment variables:**
+Create the .env.local file in root directory of the project  and create the following variables.
+```bash
+NEXT_PUBLIC_APPWRITE_PROJECT_ID
+NEXT_PUBLIC_DATABASE_ID
+NEXT_PUBLIC_COLLECTION_ID
+NEXT_PUBLIC_GOOGLEAUTH_ID
+```
+Update the variables with your configuration.
+- **5. Run the project**
+```bash
+ npm run dev
 ```
