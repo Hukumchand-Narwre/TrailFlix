@@ -54,16 +54,7 @@ cd netflix_clone
 ```bash
 npm install
 ```
-- **4. Configure environment variables:**
-Create the .env.local file in root directory of the project  and create the following variables.
+- **4. Run the project**
 ```bash
-NEXT_PUBLIC_APPWRITE_PROJECT_ID
-NEXT_PUBLIC_DATABASE_ID
-NEXT_PUBLIC_COLLECTION_ID
-NEXT_PUBLIC_GOOGLEAUTH_ID
-```
-Update the variables with your configuration.
-- **5. Run the project**
-```bash
- npm run dev
+ npm run start
 ```
