@@ -29,8 +29,6 @@ I created a cool app where you can easily watch movie trailers. By using a speci
 - **React:**  The application is developed using React, providing a robust and efficient front-end framework for building user interfaces.
 - **Movie Trailer API:** Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
 - **React-YouTube:** Employs the React-YouTube library to embed and play YouTube videos seamlessly within the application.
-- **Appwrite:** Appwrite is a cloud-based mobile and web application development platform that provides a set of ready-to-use APIs and real-time collaboration tools to build custom 
-                applications without writing more code. It follows a No-code approach, allowing developers to create a new mobile app without any coding experience.
 - **Netlify:** Netlify is a cloud-based web development platform that allows developers to host and deploy their websites, web applications, and React applications with 
                lightweight pre-built components and without server management
 
