@@ -19,18 +19,16 @@ Users who prefer making informed decisions about their entertainment choices and
 URL - https://netflix-clone-hukum.netlify.app/
 
 ## Project Summary
-
-This was my first attempt at making a video streaming platform. Understanding how everything connects — from fetching movie data to playing trailers seamlessly
-
-Designing a user-friendly interface that resembled Netflix posed its own set of challenges.
+I created a cool app where you can easily watch movie trailers. By using a special movie-trailer tool and connecting it with React YouTube, the app smoothly plays trailers. Making it look and feel like Netflix was a bit tricky, but I figured it out. Now, it's a simple and fun way to check out trailers before picking a movie!
 
 ## Technology Used
 - **React:**  The application is developed using React, providing a robust and efficient front-end framework for building user interfaces.
 - **Movie Trailer API:** Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
 - **React-YouTube:** Employs the React-YouTube library to embed and play YouTube videos seamlessly within the application.
+- **Netlify:** Netlify is a cloud-based web development platform that allows developers to host and deploy their websites, web applications, and React applications with 
+               liteweight pre-built components and without server management
 
-## Deployment
-Deployed the project using Netlify
+
 
 ## Create-react-app for Installing React
 ```bash
