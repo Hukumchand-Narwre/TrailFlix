@@ -21,6 +21,7 @@ URL - https://netflix-clone-hukum.netlify.app/
 ## Project Summary
 I created a cool app where you can easily watch movie trailers. By using a special movie-trailer tool and connecting it with React YouTube, the app smoothly plays trailers. Making it look and feel like Netflix was a bit tricky, but I figured it out. Now, it's a simple and fun way to check out trailers before picking a movie!
 
+![netflix](https://github.com/Hukumchand-Narwre/netflix_clone/assets/85044429/97e7e526-cc79-4e59-8e67-2caef310f442)
 ## Technology Used
 - **React:**  The application is developed using React, providing a robust and efficient front-end framework for building user interfaces.
 - **Movie Trailer API:** Integrates the Movie Trailer API to fetch movie data, including titles, posters, and trailer links.
